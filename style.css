@@ -4,7 +4,7 @@ body{
     margin:0px ;
 }
 h1{
-    font-size:60px; ;
+    font-size:50px; ;
 }
 .color{
     color:seagreen;
@@ -53,6 +53,7 @@ h1{
     padding-bottom: 80px;
     border-radius:15px ;
     border-left:10px solid;
+    border-color: dodgerblue;
     
 }
 footer{
