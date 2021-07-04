@@ -2,6 +2,15 @@ body{
     font-family: serif;
     font-size:22px ;
 }
-span{
+h1{
+    font-size:60px; ;
+}
+.color{
     color:seagreen;
+}
+section{
+    display:flex;
+}
+.image-edit{
+  width:50%;
 }
